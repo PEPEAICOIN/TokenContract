@@ -1,1 +1,1 @@
-# TokenContract
+# PEPEAI Token Contract
